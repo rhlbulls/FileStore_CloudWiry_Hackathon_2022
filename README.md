@@ -34,8 +34,9 @@ _**CheckPoint C: Client application (CLI/ web based) for file upload, download, 
 
 ![image](https://user-images.githubusercontent.com/45164745/151287755-3ab58002-058e-4451-89cc-73fa20da33be.png)
 I used **React** to provide **user authentication, session management (through Logout), file upload, download, rename, delete, and share** capabilities. The **Axios library** is used to make API calls.
-_
-**CHECKPOINT D: User based access control on who can access the files**_
+
+
+_**CHECKPOINT D: User based access control on who can access the files**_
 
 Users who have been given access to the file can only view/download it.
 
