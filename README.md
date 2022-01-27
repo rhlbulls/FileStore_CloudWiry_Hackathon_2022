@@ -11,3 +11,4 @@ https://filestore.netlify.app/
 
 _**CheckPoint A: User authentication and session management**_
 
+![image](https://user-images.githubusercontent.com/45164745/151287211-7e4c9cce-1fea-4aee-b823-93fa785023ec.png)
