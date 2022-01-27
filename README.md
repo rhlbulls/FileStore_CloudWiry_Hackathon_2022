@@ -1,5 +1,5 @@
 # FileStore_CloudWiry_Hackathon_2022
-For this hackathon, I created a Blob server that receives and stores files directly on the server using FastAPI and MongoDB. You may upload, delete, rename, and distribute files using this API. I've also created a React app that connects to the API and allows you to conduct these functions on the web.
+For this hackathon, I have created a Blob server that receives and stores files directly on the server using FastAPI and MongoDB. You may upload, delete, rename, and distribute files using this API. I've also created a React app that connects to the API and allows you to conduct these functions on the web.
 
 Backend FastAPI is deployed on Heroku: 
 https://simple-blob-cloudwiry.herokuapp.com/docs
